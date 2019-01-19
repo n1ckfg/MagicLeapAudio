@@ -1,0 +1,6 @@
+[submodule "Assets/SoundEffects"]
+	path = Assets/SoundEffects
+	url = https://github.com/n1ckfg/SoundEffects/
+[submodule "Assets/Unity-Synth-Experiments"]
+	path = Assets/Unity-Synth-Experiments
+	url = https://github.com/n1ckfg/Unity-Synth-Experiments

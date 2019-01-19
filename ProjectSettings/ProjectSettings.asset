@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: latkUnity_MagicLeap
+  companyName: Concordia
+  productName: CcdaSine
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -156,7 +156,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Lumin: com.foxgieg.latkmagicleap
+    Lumin: com.rvh.ccdasine
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -631,7 +631,7 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: D:/Sharing/RV_Hackathon/Day2_Fri/leap certs/latkone.cert
+    m_CertPath: D:/Sharing/RV_Hackathon/Day2_Fri/leap certs/concordia.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
